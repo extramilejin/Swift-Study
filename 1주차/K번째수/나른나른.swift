@@ -1,5 +1,5 @@
 //
-//  나른나른_K번째수.swift
+//  나른나른_K번째수.swift
 //  Created by Heyziin on 2021/01/15.
 //
 
